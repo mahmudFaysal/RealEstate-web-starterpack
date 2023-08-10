@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Padma Abashik Residential Housing",
+    "price": "17,000",
+    "detail": "Hojor Mor, Jamalpur, Noya Vodra; Padma Abashik, Rajshahi.",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
-  },
-  {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Dhanmondi Residential Housing",
+    "price": "20,000",
+    "detail": "Dhanmondi 32 Lake Road, Dhaka",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Basundhara Residential Housing",
+    "price": "23,000",
+    "detail": "Basundhara Residential Area, Road No. 14, Dhaka.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Gulshan Residential Housing",
+    "price": "24,000",
+    "detail": "Gulshan Residential Area, Road No. 7, Dhaka.",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Haque Residential Housing",
+    "price": "15,000",
+    "detail": "Haque Residential Area, Road No. 5, Dhaka",
+    "image": "./r3.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Baridhara Residential Housing",
+    "price": "22,000",
+    "detail": "Baridhara Residential Area, Road No. 2, Dhaka",
+    "image": "./r2.png"
   }
 ]
